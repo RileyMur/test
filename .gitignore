@@ -1,0 +1,5 @@
+2_module/node_modules
+.vscode
+2_module/out
+.DS_Store
+*.log*
