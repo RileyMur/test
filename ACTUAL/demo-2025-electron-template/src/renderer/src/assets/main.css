@@ -1,0 +1,47 @@
+.logo {
+  width: 200px;
+}
+.logo-c {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+body {
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(8, 0, 0);
+}
+
+.data-list {
+  border:solid;
+  padding-left: 0;
+}
+
+.item-card {
+  border: solid;
+  list-style-type: none;
+  margin: 20px 20px 20px 20px;
+  padding: 5px 5px 5px 5px;
+}
+
+.card_heading {
+  font-weight: bold;
+}
+
+.button {
+  border: solid;
+  border-radius: 5px;
+  color: black;
+  background-color: brown;
+  cursor: pointer !important;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title {
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: 40px;
+
+}
